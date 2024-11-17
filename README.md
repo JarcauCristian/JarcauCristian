@@ -1,5 +1,15 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=JarcauCristian)]
+
+### Socials
+[LinkedIn](https://www.linkedin.com/in/stefan-cristian-jarcau-232689235/)
+
+### Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=JarcauCristian&theme=onedark)
+
+### Working on
+- Rust projects
+- Low Level programming
+- Zero Touch Provisioning Services [ZTP]
 <!--
 **JarcauCristian/JarcauCristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
